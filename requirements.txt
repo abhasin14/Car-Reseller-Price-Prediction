@@ -48,9 +48,6 @@ Pygments
 pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil
-pytz
-pywinpty
-pyzmq
 qtconsole==5.1.0
 QtPy==1.9.0
 scikit-learn==0.24.2
